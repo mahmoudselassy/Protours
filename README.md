@@ -26,7 +26,7 @@ API documentation [here](https://documenter.getpostman.com/view/20664212/VUquMG9
   * Admin only
   * Validation on update
 - Delete tour
-  * Owner only
+  * Admin only
 - Get Cheapest 5 tours
 - Get Monthly Plan
 
