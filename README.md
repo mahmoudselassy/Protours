@@ -2,7 +2,7 @@
 
 > Backend API for Booking Tours application
 
-# Documenetation & Demo
+# Documenetation
 
 API documentation [here](https://documenter.getpostman.com/view/20664212/VUquMG9i)
 
